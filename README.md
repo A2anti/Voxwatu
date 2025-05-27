@@ -3,7 +3,7 @@
 #### *Zero-Knowledge Proofs + Blockchain for Trustless Democracy*
 
 
-```ansi
+
 \e[1;36m__     ______  ____  _       _        _       \e[0m
 \e[1;36m\ \   / / __ \|  _ \(_) __ _| | _____| |_ ___ \e[0m
 \e[1;36m \ \_/ / |  | | |_) | |/ _` | |/ / _ \ __/ __|\e[0m
