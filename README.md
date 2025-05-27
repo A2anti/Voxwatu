@@ -41,5 +41,5 @@ Built for:
 ### Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-org/voxwatu.git
+   git clone https://github.com/A2anti/voxwatu.git
    cd voxwatu
