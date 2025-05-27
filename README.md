@@ -3,13 +3,14 @@
 #### *Zero-Knowledge Proofs + Blockchain for Trustless Democracy*
 
 
+__     ______  ____  _       _        _       
+\ \   / / __ \|  _ \(_) __ _| | _____| |_ ___ 
+ \ \_/ / |  | | |_) | |/ _` | |/ / _ \ __/ __|
+  \   /| |__| |  __/| | (_| |   <  __/ |_\__ \
+   \_/  \____/|_|   |_|\__,_|_|\_\___|\__|___/
+    VOXWATU – Decentralized, Anonymous Voting
 
-\e[1;36m__     ______  ____  _       _        _       \e[0m
-\e[1;36m\ \   / / __ \|  _ \(_) __ _| | _____| |_ ___ \e[0m
-\e[1;36m \ \_/ / |  | | |_) | |/ _` | |/ / _ \ __/ __|\e[0m
-\e[1;36m  \   /| |__| |  __/| | (_| |   <  __/ |_\__ \ \e[0m
-\e[1;36m   \_/  \____/|_|   |_|\__,_|_|\_\___|\__|___/ \e[0m
-\e[1;32m    VOXWATU – Decentralized, Anonymous Voting\e[0m
+
 
 > **Your Voice, Zero Exposure.**  
 > Empowering secure, anonymous, and tamper-proof civic engagement.
